@@ -1,0 +1,4 @@
+name: EatPotionTwist
+version: '${project.version}'
+main: me.wadamka.eatpotiontwist.EatPotionTwist
+api-version: 1.19
